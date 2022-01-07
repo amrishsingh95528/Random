@@ -14,7 +14,7 @@ public class Developer implements Client {
 	public void input() {
 		
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter first number");
+		System.out.println("Enter first number, My name is Amrish Singh, I am trying revert function in github, let's try it");
 		a=sc.nextInt();
 		System.out.println("Enter second number, please correct it");
 		b=sc.nextInt();
